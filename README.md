@@ -25,7 +25,7 @@ For each process, there is a PDF description file as well as a JSON DataPack or 
   ## License and Permit Management Processes ##
     - Apply for Business Authorization
     - Apply for Indiviual Authorization
-    - Assess Your LIcense or Permit Needs
+    - Assess Your License or Permit Needs
     - File a Complaint
     - Search for License or Permit Holder
     - Violation Fee
