@@ -29,6 +29,9 @@ For each process, there is a PDF description file as well as a JSON DataPack or 
     - File a Complaint
     - Search for License or Permit Holder
     - Violation Fee
-    
+      
    ## Additional Public Sector Processes ##
    There are other processes in Public Sector Solutions that are directly available within OmniStudio App (Example Instructions: https://help.salesforce.com/s/articleView?id=sf.psc_benefit_assess_eligibility.htm&type=5)
+
+## Flows ##
+All the Salesforce Flows that needs to be manually configured can be found under the Flows folder. Instructions on how they can be configured will be part of official documentation
