@@ -11,7 +11,8 @@ For each process, there is a PDF description file as well as a JSON DataPack or 
     - Apply for Indiviual Authorization
     - Search for License or Permit Holder
     - Violation Fee
-    Note: Process assets for License and Permit Management are being moved such that they are directly include in Public Sector Solutions.  See [Licensing and Permitting Guided Flow Components] (https://help.salesforce.com/s/articleView?id=sf.psc_business_authorization_application_components.htm&type=5).
+    Note: Process assets for License and Permit Management are being moved such that they are directly include in Public Sector Solutions.  
+    See Licensing and Permitting Guided Flow Components at https://help.salesforce.com/s/articleView?id=sf.psc_business_authorization_application_components.htm&type=5.
       
    ### Additional Public Sector Processes
    The processes for other use cases in Public Sector Solutions are directly available within Public Sector Solutions. See [Example Instructions](https://help.salesforce.com/s/articleView?id=sf.psc_benefit_assess_eligibility.htm&type=5).
