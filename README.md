@@ -6,29 +6,19 @@ Library of downloadable process assets for Salesforce Public Sector Solutions.
 ## Processes
 
 For each process, there is a PDF description file as well as a JSON DataPack or ZIP MultiPack.
-
-  ### Complex Case Management Processes
-    - Capture Details of a Referral using Guided Intake
-    - Create Case from Complaint
-    - Document a Complaint using Guided Intake
-    
+  
   ### License and Permit Management Processes
-    - Apply for Business Authorization
     - Apply for Indiviual Authorization
-    - Assess Your License or Permit Needs
-    - File a Complaint
     - Search for License or Permit Holder
     - Violation Fee
+    Note: Process assets for License and Permit Management are being moved such that they are directly include in Public Sector Solutions.  See [Licensing and Permitting Guided Flow Components] (https://help.salesforce.com/s/articleView?id=sf.psc_business_authorization_application_components.htm&type=5).
       
    ### Additional Public Sector Processes
-   There are other processes in Public Sector Solutions that are directly available within OmniStudio App. See [Example Instructions](https://help.salesforce.com/s/articleView?id=sf.psc_benefit_assess_eligibility.htm&type=5).
+   The processes for other use cases in Public Sector Solutions are directly available within Public Sector Solutions. See [Example Instructions](https://help.salesforce.com/s/articleView?id=sf.psc_benefit_assess_eligibility.htm&type=5).
 
 # Salesforce Flows
 
 Salesforce flows that must be manually configured are available under the Flows folder. See [Salesforce Help](https://help.salesforce.com/s/articleView?id=sf.psc_admin_concept_psc_welcom.htm) for instructions to configure and run the flows.
-
-## Authorize Referral for Provider Flow 
-Enables caseworkers to authorize the service delivery by a provider. The flow updates a referral's authorization status, and shares the benefit assignment record related to the referral and the account of the benefit assignment enrollee with the provider user. The provider user can then easily track service delivery as benefit disbursements against the benefit assignment.
 
 # To Download All Files From The Repository 
 1) On the main repository page, click the green Code button. 
