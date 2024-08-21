@@ -14,7 +14,7 @@ For each process, there is a PDF description file as well as a JSON DataPack or 
       
    ### Additional Public Sector Processes
 
- Note: All process assets for License and Permit Management are in the process of being moved such that they are directly include in Public Sector Solutions. See [Licensing and Permitting Guided Flow Components](https://help.salesforce.com/s/articleView?id=sf.psc_business_authorization_application_components.htm&type=5).
+ Note: All process assets for License and Permit Management are in the process of being moved such that they are directly include in Public Sector Solutions. See components already directly included in Public Sector Solutions: [Licensing and Permitting Guided Flow Components](https://help.salesforce.com/s/articleView?id=sf.psc_business_authorization_application_components.htm&type=5).
 
  The processes for other use cases in Public Sector Solutions are also directly available within Public Sector Solutions.
 
